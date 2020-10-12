@@ -1,2 +1,1 @@
-# hello-world
-My first GitHub project
+I am a developer with 10+ years experience
